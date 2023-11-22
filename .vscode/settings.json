@@ -1,0 +1,6 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "CMakeLists.txt",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": true
+    }
+}
